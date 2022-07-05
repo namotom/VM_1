@@ -9,9 +9,15 @@ And to answer to this is: **_Visualizing Maths_** , a series of projects where I
 
 ---
 
+### What Are Fractals?
+
+In mathematics, fractal is a term used to describe geometric shapes containing detailed structure at arbitrarily small scales, usually having a fractal dimension strictly exceeding the topological dimension.
+
+---
+
 ### About Mandelbrot Set
 
-The **Mandelbrot set**  is the set of complex numbers $c$ for which the function $f_c(z) = z^2 + c$ does not diverge to _infinity_ when iterated from $z=0$, i.e., for which the sequence$f_c(0), \space f_c(f_c(0)), \space f_c(f_c(f_c(0)))$ etc., remains bounded in absolute value.
+The **Mandelbrot Set**  is the set of complex numbers $c$ for which the function $f_c(z) = z^2 + c$ does not diverge to _infinity_ when iterated from $z=0$, i.e., for which the sequence$f_c(0), \space f_c(f_c(0)), \space f_c(f_c(f_c(0)))$ etc., remains bounded in absolute value.
 
 ---
 

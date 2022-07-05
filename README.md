@@ -15,6 +15,28 @@ The **Mandelbrot set**  is the set of complex numbers $c$ for which the function
 
 ---
 
+### Snapshot
+
+![UnityEditor](https://user-images.githubusercontent.com/24915512/177427679-6c148d2d-dd6d-4308-a386-dd61ad53e308.png)
+
+---
+
+### How To Use
+
+- I used Unity3D 2021.2.12f1. Hence in order to view this on your system you need _**atleast**_ same version or above. 
+
+Keyboard Controls:
+- W: Move Up
+- A: Move Left
+- S: Move Down
+- D: Move Right
+- Arrow Up: Zoom In
+- Arrow Down: Zoom Out 
+- Arrow Left: Rotate Counter-Clockwise
+- Arrow Right: Rotate Clockwise
+
+---
+
 ### License
 
 MIT License
